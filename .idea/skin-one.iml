@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/assets/Magnific-Popup-master" />
+      <excludeFolder url="file://$MODULE_DIR$/assets/Polyglot-Language-Switcher-master" />
+      <excludeFolder url="file://$MODULE_DIR$/assets/bootstrap-select" />
+      <excludeFolder url="file://$MODULE_DIR$/assets/bootstrap-touch-spin" />
+      <excludeFolder url="file://$MODULE_DIR$/assets/bxslider" />
+      <excludeFolder url="file://$MODULE_DIR$/assets/chartjs" />
+      <excludeFolder url="file://$MODULE_DIR$/assets/font-awesome" />
+      <excludeFolder url="file://$MODULE_DIR$/assets/jquery-circle-progress-1.1.2" />
+      <excludeFolder url="file://$MODULE_DIR$/assets/jquery-validation" />
+      <excludeFolder url="file://$MODULE_DIR$/assets/lsp-icon" />
+      <excludeFolder url="file://$MODULE_DIR$/assets/masterslider" />
+      <excludeFolder url="file://$MODULE_DIR$/assets/morris.js-master" />
+      <excludeFolder url="file://$MODULE_DIR$/assets/nouislider" />
+      <excludeFolder url="file://$MODULE_DIR$/assets/owl.carousel-2" />
+      <excludeFolder url="file://$MODULE_DIR$/assets/raphael-master" />
+      <excludeFolder url="file://$MODULE_DIR$/assets/revolution" />
+      <excludeFolder url="file://$MODULE_DIR$/assets/vegas-slider" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
